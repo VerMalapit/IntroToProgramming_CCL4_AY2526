@@ -3,7 +3,7 @@
 
 Your task is to create a Vending Machine program using the Python programming language. The program should demonstrate your knowledge of programming and make use of the techniques introduced over the course of the module. Your application should be accompanied by a development document (1,000 - 1,500 words).
 
-##The Application
+## The Application
 
 The Vending Machine must have the following features as a minimum requirement:
 * A menu of drinks and snacks presented via the console. The number and range of items is up to you.
@@ -20,7 +20,7 @@ You may wish to add additional features to your Vending Machine to achieve highe
 * An intelligence system for suggesting purchases. For example, if you buy a coffee, the vending machine may suggest that you buy biscuits.
 * A stock system meaning the machine may run out of products
 
-##The Development Document
+## The Development Document
 
 Your Vending Machine Python program must be accompanied by a Development Document of 1,000 - 1,500 words. Please include the following elements (note the suggested word counts):
 * Specification: A short explanation of what you have been asked to build and a list of features that your vending machine includes. This section should also include a link to your GitHub repository. (100 words)
